@@ -1,0 +1,23 @@
+{
+  "name": "less-mixin-helper",
+  "version": "1.0.0",
+  "description": "Less Mixin Helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeludemann/less-mixin-helper.git"
+  },
+  "keywords": [
+    "Less",
+    "Mixin"
+  ],
+  "author": "Mike Ludemann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeludemann/less-mixin-helper/issues"
+  },
+  "homepage": "https://github.com/mikeludemann/less-mixin-helper#readme"
+}
